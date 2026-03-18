@@ -1,1 +1,29 @@
-/* background-color:rgb(180, 239, 219); */
+.container {
+     background-color:rgb(180, 239, 219);
+     padding: 10px;
+     margin: 50px;
+     border-radius: 20px;
+}
+
+h1 {
+     text-align: center;
+     padding-top: 10px;
+}
+
+#enterYourAge {
+     margin-bottom: 10px;
+     display: block;
+     text-align: center;
+}
+
+#buttons {
+     text-align: center;
+}
+
+#personAge {
+     width: 150px;
+}
+
+#ageStatus {
+     text-align: center;
+}
